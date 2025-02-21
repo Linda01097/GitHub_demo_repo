@@ -1,2 +1,2 @@
 # GitHub_demo_repo
-This is the repo doing to submit Assignment week-4
+This is the repository  doing to submit Assignment week-4
